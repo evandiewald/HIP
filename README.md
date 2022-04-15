@@ -70,7 +70,7 @@ If you have questions or feedback, please ask in [#hip-open-discussion in the co
 | 55 | [Validator Challenges](https://github.com/helium/HIP/blob/main/0055-validator-challenges.md) | [Approved](https://github.com/helium/HIP/issues/362) |
 | 56 | [Improved State Channel Disputes](https://github.com/helium/HIP/blob/main/0056-state-channel-dispute-strategy.md) | [Approved](https://github.com/helium/HIP/issues/369) |
 | 57 | [PoC Rewards Establishment Period](https://github.com/helium/HIP/blob/main/0057-poc-rewards-establishment-period.md) | [In Discussion](https://github.com/helium/HIP/issues/376) |
-| 58 | [PoC Distance Limit](https://github.com/helium/HIP/blob/main/0058-poc-distance-limit.md) | [In Discussion](https://github.com/helium/HIP/issues/384) |
+| 58 | [PoC Distance Limit](https://github.com/helium/HIP/blob/main/0058-poc-distance-limit.md) | [Deployed](https://github.com/helium/HIP/issues/384) ([audit](https://github.com/helium/miner/blob/master/audit/var-126.md) / [txn](https://explorer.helium.com/txns/9gdNu5yJIlCEyXwxX38-DlWy6lcl1zTfpKS7KoJG5Uk)) |
 
 ## Status key
 
