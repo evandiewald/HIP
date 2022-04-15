@@ -5,7 +5,7 @@
 - Category: Technical
 - Original HIP PR: https://github.com/helium/HIP/pull/381
 - Tracking Issue: https://github.com/helium/HIP/issues/384 
-- Status: In Discussion
+- Status: [Deployed](https://github.com/helium/HIP/issues/384) ([audit](https://github.com/helium/miner/blob/master/audit/var-126.md) / [txn](https://explorer.helium.com/txns/9gdNu5yJIlCEyXwxX38-DlWy6lcl1zTfpKS7KoJG5Uk))
 
 # Summary
 
